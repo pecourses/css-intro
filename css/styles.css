@@ -1,0 +1,15 @@
+p {
+  color:chocolate;
+}
+
+#mySpecialP {
+  color:darkcyan;
+}
+
+.redColorText {
+  color:red;
+}
+
+p.redColorText {
+  color:blue
+}
